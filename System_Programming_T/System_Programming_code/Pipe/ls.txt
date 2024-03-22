@@ -1,0 +1,4 @@
+total 8
+drwxrwxr-x  2 sun sun 4096  2월  5 21:49 .
+drwxrwxr-x 16 sun sun 4096  2월  5 21:48 ..
+-rw-rw-r--  1 sun sun    0  2월  5 21:49 ls.txt
